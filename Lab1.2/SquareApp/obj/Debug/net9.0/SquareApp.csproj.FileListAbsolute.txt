@@ -1,0 +1,14 @@
+C:\Users\GreyCatt\Labs-OOP\OOP-KAI\Lab1.2\SquareApp\bin\Debug\net9.0\SquareApp.exe
+C:\Users\GreyCatt\Labs-OOP\OOP-KAI\Lab1.2\SquareApp\bin\Debug\net9.0\SquareApp.deps.json
+C:\Users\GreyCatt\Labs-OOP\OOP-KAI\Lab1.2\SquareApp\bin\Debug\net9.0\SquareApp.runtimeconfig.json
+C:\Users\GreyCatt\Labs-OOP\OOP-KAI\Lab1.2\SquareApp\bin\Debug\net9.0\SquareApp.dll
+C:\Users\GreyCatt\Labs-OOP\OOP-KAI\Lab1.2\SquareApp\bin\Debug\net9.0\SquareApp.pdb
+C:\Users\GreyCatt\Labs-OOP\OOP-KAI\Lab1.2\SquareApp\obj\Debug\net9.0\SquareApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GreyCatt\Labs-OOP\OOP-KAI\Lab1.2\SquareApp\obj\Debug\net9.0\SquareApp.AssemblyInfoInputs.cache
+C:\Users\GreyCatt\Labs-OOP\OOP-KAI\Lab1.2\SquareApp\obj\Debug\net9.0\SquareApp.AssemblyInfo.cs
+C:\Users\GreyCatt\Labs-OOP\OOP-KAI\Lab1.2\SquareApp\obj\Debug\net9.0\SquareApp.csproj.CoreCompileInputs.cache
+C:\Users\GreyCatt\Labs-OOP\OOP-KAI\Lab1.2\SquareApp\obj\Debug\net9.0\SquareApp.dll
+C:\Users\GreyCatt\Labs-OOP\OOP-KAI\Lab1.2\SquareApp\obj\Debug\net9.0\refint\SquareApp.dll
+C:\Users\GreyCatt\Labs-OOP\OOP-KAI\Lab1.2\SquareApp\obj\Debug\net9.0\SquareApp.pdb
+C:\Users\GreyCatt\Labs-OOP\OOP-KAI\Lab1.2\SquareApp\obj\Debug\net9.0\SquareApp.genruntimeconfig.cache
+C:\Users\GreyCatt\Labs-OOP\OOP-KAI\Lab1.2\SquareApp\obj\Debug\net9.0\ref\SquareApp.dll
