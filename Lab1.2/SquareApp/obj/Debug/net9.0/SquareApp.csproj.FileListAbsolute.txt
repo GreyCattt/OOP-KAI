@@ -12,3 +12,4 @@ C:\Users\GreyCatt\Labs-OOP\OOP-KAI\Lab1.2\SquareApp\obj\Debug\net9.0\refint\Squa
 C:\Users\GreyCatt\Labs-OOP\OOP-KAI\Lab1.2\SquareApp\obj\Debug\net9.0\SquareApp.pdb
 C:\Users\GreyCatt\Labs-OOP\OOP-KAI\Lab1.2\SquareApp\obj\Debug\net9.0\SquareApp.genruntimeconfig.cache
 C:\Users\GreyCatt\Labs-OOP\OOP-KAI\Lab1.2\SquareApp\obj\Debug\net9.0\ref\SquareApp.dll
+C:\Users\GreyCatt\Labs-OOP\OOP-KAI\Lab1.2\SquareApp\obj\Debug\net9.0\SquareApp.sourcelink.json

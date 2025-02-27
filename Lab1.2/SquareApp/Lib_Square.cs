@@ -64,7 +64,22 @@ namespace SquareLib
             }
         }
 
-        private double GetSideLength()
+// Copy constructor
+         public Square(Square other)
+        {
+            X1 = other.X1;
+            Y1 = other.Y1;
+            X2 = other.X2;
+            Y2 = other.Y2;
+            X3 = other.X3;
+            Y3 = other.Y3;
+            X4 = other.X4;
+            Y4 = other.Y4;
+        }
+
+        // Destructor
+        ~Square() { }
+       private double GetSideLength()
         {
             return Math.Sqrt(Math.Pow(X1 - X2, 2) + Math.Pow(Y1 - Y2, 2));
         }
@@ -85,5 +100,5 @@ namespace SquareLib
                    $"\nPerimeter = {GetPerimeter()}" +
                    $"\nArea = {GetArea()}";
         }
-    }
+            }
 }

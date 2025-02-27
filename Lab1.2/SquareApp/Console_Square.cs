@@ -37,6 +37,13 @@ namespace Console_Square
 
                 // Display the square's information
                 Console.WriteLine(square.GetInfo());
+
+                // Create a copy of the square using the copy constructor
+                Square copiedSquare = new Square(square);
+
+                // Display the copied square's information
+                Console.WriteLine("Copied square:");
+                Console.WriteLine(copiedSquare.GetInfo());
             }
             catch (Exception ex)
             {

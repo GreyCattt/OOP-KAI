@@ -19,6 +19,10 @@ public:
         }
     }
 
+    // Copy constructor
+    Square(const Square& other)
+        : x1(other.x1), y1(other.y1), x2(other.x2), y2(other.y2), x3(other.x3), y3(other.y3), x4(other.x4), y4(other.y4) {}
+
     // Destructor
     ~Square() {}
 

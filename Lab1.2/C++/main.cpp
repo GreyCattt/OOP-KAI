@@ -33,6 +33,13 @@ int main() {
 
         // Display the square's information
         square.printInfo();
+
+        // Create a copy of the square using the copy constructor
+        Square copiedSquare = square;
+
+        // Display the copied square's information
+        std::cout << "Copied square:" << std::endl;
+        copiedSquare.printInfo();
     } catch (const std::exception& ex) {
         std::cerr << "Error: " << ex.what() << std::endl;
         std::cerr << "Creating a default square." << std::endl;
