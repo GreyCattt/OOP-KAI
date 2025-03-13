@@ -1,0 +1,15 @@
+C:\Users\GreyCatt\Labs-OOP\OOP-KAI\Lab1.3\SegmentApp\bin\Debug\net9.0\SegmentApp.exe
+C:\Users\GreyCatt\Labs-OOP\OOP-KAI\Lab1.3\SegmentApp\bin\Debug\net9.0\SegmentApp.deps.json
+C:\Users\GreyCatt\Labs-OOP\OOP-KAI\Lab1.3\SegmentApp\bin\Debug\net9.0\SegmentApp.runtimeconfig.json
+C:\Users\GreyCatt\Labs-OOP\OOP-KAI\Lab1.3\SegmentApp\bin\Debug\net9.0\SegmentApp.dll
+C:\Users\GreyCatt\Labs-OOP\OOP-KAI\Lab1.3\SegmentApp\bin\Debug\net9.0\SegmentApp.pdb
+C:\Users\GreyCatt\Labs-OOP\OOP-KAI\Lab1.3\SegmentApp\obj\Debug\net9.0\SegmentApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GreyCatt\Labs-OOP\OOP-KAI\Lab1.3\SegmentApp\obj\Debug\net9.0\SegmentApp.AssemblyInfoInputs.cache
+C:\Users\GreyCatt\Labs-OOP\OOP-KAI\Lab1.3\SegmentApp\obj\Debug\net9.0\SegmentApp.AssemblyInfo.cs
+C:\Users\GreyCatt\Labs-OOP\OOP-KAI\Lab1.3\SegmentApp\obj\Debug\net9.0\SegmentApp.csproj.CoreCompileInputs.cache
+C:\Users\GreyCatt\Labs-OOP\OOP-KAI\Lab1.3\SegmentApp\obj\Debug\net9.0\SegmentApp.sourcelink.json
+C:\Users\GreyCatt\Labs-OOP\OOP-KAI\Lab1.3\SegmentApp\obj\Debug\net9.0\SegmentApp.dll
+C:\Users\GreyCatt\Labs-OOP\OOP-KAI\Lab1.3\SegmentApp\obj\Debug\net9.0\refint\SegmentApp.dll
+C:\Users\GreyCatt\Labs-OOP\OOP-KAI\Lab1.3\SegmentApp\obj\Debug\net9.0\SegmentApp.pdb
+C:\Users\GreyCatt\Labs-OOP\OOP-KAI\Lab1.3\SegmentApp\obj\Debug\net9.0\SegmentApp.genruntimeconfig.cache
+C:\Users\GreyCatt\Labs-OOP\OOP-KAI\Lab1.3\SegmentApp\obj\Debug\net9.0\ref\SegmentApp.dll
