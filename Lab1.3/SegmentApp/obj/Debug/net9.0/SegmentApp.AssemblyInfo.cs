@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SegmentApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c386092fe11ef8b9c625e305c106e64195dc6122")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa34aa91511437a5dff29844c11c36505caa0604")]
 [assembly: System.Reflection.AssemblyProductAttribute("SegmentApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SegmentApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

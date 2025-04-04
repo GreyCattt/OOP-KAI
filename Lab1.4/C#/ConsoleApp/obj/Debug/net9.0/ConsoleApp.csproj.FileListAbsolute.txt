@@ -1,0 +1,15 @@
+C:\Users\GreyCatt\Labs-OOP\OOP-KAI\Lab1.4\C#\ConsoleApp\obj\Debug\net9.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GreyCatt\Labs-OOP\OOP-KAI\Lab1.4\C#\ConsoleApp\obj\Debug\net9.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\GreyCatt\Labs-OOP\OOP-KAI\Lab1.4\C#\ConsoleApp\obj\Debug\net9.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\GreyCatt\Labs-OOP\OOP-KAI\Lab1.4\C#\ConsoleApp\obj\Debug\net9.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\GreyCatt\Labs-OOP\OOP-KAI\Lab1.4\C#\ConsoleApp\obj\Debug\net9.0\ConsoleApp.sourcelink.json
+C:\Users\GreyCatt\Labs-OOP\OOP-KAI\Lab1.4\C#\ConsoleApp\bin\Debug\net9.0\ConsoleApp.exe
+C:\Users\GreyCatt\Labs-OOP\OOP-KAI\Lab1.4\C#\ConsoleApp\bin\Debug\net9.0\ConsoleApp.deps.json
+C:\Users\GreyCatt\Labs-OOP\OOP-KAI\Lab1.4\C#\ConsoleApp\bin\Debug\net9.0\ConsoleApp.runtimeconfig.json
+C:\Users\GreyCatt\Labs-OOP\OOP-KAI\Lab1.4\C#\ConsoleApp\bin\Debug\net9.0\ConsoleApp.dll
+C:\Users\GreyCatt\Labs-OOP\OOP-KAI\Lab1.4\C#\ConsoleApp\bin\Debug\net9.0\ConsoleApp.pdb
+C:\Users\GreyCatt\Labs-OOP\OOP-KAI\Lab1.4\C#\ConsoleApp\obj\Debug\net9.0\ConsoleApp.dll
+C:\Users\GreyCatt\Labs-OOP\OOP-KAI\Lab1.4\C#\ConsoleApp\obj\Debug\net9.0\refint\ConsoleApp.dll
+C:\Users\GreyCatt\Labs-OOP\OOP-KAI\Lab1.4\C#\ConsoleApp\obj\Debug\net9.0\ConsoleApp.pdb
+C:\Users\GreyCatt\Labs-OOP\OOP-KAI\Lab1.4\C#\ConsoleApp\obj\Debug\net9.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\GreyCatt\Labs-OOP\OOP-KAI\Lab1.4\C#\ConsoleApp\obj\Debug\net9.0\ref\ConsoleApp.dll
