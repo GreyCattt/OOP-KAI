@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SquareApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa34aa91511437a5dff29844c11c36505caa0604")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b717457020025a7fb53adfa41e7bb5c9c7be1b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("SquareApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SquareApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -7,7 +7,6 @@ namespace Lab1._4.CS.ConsoleApp
     {
         static void Main(string[] args)
         {
-            // Create an object of the derived class using the parameterized constructor
             Segment segment = new Segment(0, 0, 3, 4);
 
             // Output the initial data of the segment

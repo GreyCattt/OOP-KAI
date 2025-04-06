@@ -1,8 +1,6 @@
 namespace LineLib
 {
     using System;
-
-    // Segment class inherits from Line class
     public class Segment : Line
     {
         // Constructor with parameters (explicitly calling the base class constructor)

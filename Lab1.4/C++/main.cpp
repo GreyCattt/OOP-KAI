@@ -2,7 +2,6 @@
 #include "Segment.h"
 
 int main() {
-    // Create an object of the derived class using the parameterized constructor
     Segment segment(0, 0, 3, 4);
 
     // Output the initial data of the segment
