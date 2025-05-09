@@ -1,0 +1,12 @@
+C:\Users\GreyCat\Desktop\КАІ\OOP-KAI\Lab2.3\C#\TextLibrary\bin\Debug\net9.0\TextLibrary.deps.json
+C:\Users\GreyCat\Desktop\КАІ\OOP-KAI\Lab2.3\C#\TextLibrary\bin\Debug\net9.0\TextLibrary.dll
+C:\Users\GreyCat\Desktop\КАІ\OOP-KAI\Lab2.3\C#\TextLibrary\bin\Debug\net9.0\TextLibrary.pdb
+C:\Users\GreyCat\Desktop\КАІ\OOP-KAI\Lab2.3\C#\TextLibrary\obj\Debug\net9.0\TextLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GreyCat\Desktop\КАІ\OOP-KAI\Lab2.3\C#\TextLibrary\obj\Debug\net9.0\TextLibrary.AssemblyInfoInputs.cache
+C:\Users\GreyCat\Desktop\КАІ\OOP-KAI\Lab2.3\C#\TextLibrary\obj\Debug\net9.0\TextLibrary.AssemblyInfo.cs
+C:\Users\GreyCat\Desktop\КАІ\OOP-KAI\Lab2.3\C#\TextLibrary\obj\Debug\net9.0\TextLibrary.csproj.CoreCompileInputs.cache
+C:\Users\GreyCat\Desktop\КАІ\OOP-KAI\Lab2.3\C#\TextLibrary\obj\Debug\net9.0\TextLibrary.sourcelink.json
+C:\Users\GreyCat\Desktop\КАІ\OOP-KAI\Lab2.3\C#\TextLibrary\obj\Debug\net9.0\TextLibrary.dll
+C:\Users\GreyCat\Desktop\КАІ\OOP-KAI\Lab2.3\C#\TextLibrary\obj\Debug\net9.0\refint\TextLibrary.dll
+C:\Users\GreyCat\Desktop\КАІ\OOP-KAI\Lab2.3\C#\TextLibrary\obj\Debug\net9.0\TextLibrary.pdb
+C:\Users\GreyCat\Desktop\КАІ\OOP-KAI\Lab2.3\C#\TextLibrary\obj\Debug\net9.0\ref\TextLibrary.dll
