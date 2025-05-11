@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GreyCat\\Desktop\\КАІ\\OOP-KAI\\Lab2.3\\C#\\TextApp\\TextApp.csproj": {}
+    "C:\\Users\\GreyCat\\OneDrive\\Desktop\\КАІ\\OOP-KAI\\Lab2.3\\C#\\TextApp\\TextApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GreyCat\\Desktop\\КАІ\\OOP-KAI\\Lab2.3\\C#\\TextApp\\TextApp.csproj": {
+    "C:\\Users\\GreyCat\\OneDrive\\Desktop\\КАІ\\OOP-KAI\\Lab2.3\\C#\\TextApp\\TextApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GreyCat\\Desktop\\КАІ\\OOP-KAI\\Lab2.3\\C#\\TextApp\\TextApp.csproj",
+        "projectUniqueName": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\КАІ\\OOP-KAI\\Lab2.3\\C#\\TextApp\\TextApp.csproj",
         "projectName": "TextApp",
-        "projectPath": "C:\\Users\\GreyCat\\Desktop\\КАІ\\OOP-KAI\\Lab2.3\\C#\\TextApp\\TextApp.csproj",
+        "projectPath": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\КАІ\\OOP-KAI\\Lab2.3\\C#\\TextApp\\TextApp.csproj",
         "packagesPath": "C:\\Users\\GreyCat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GreyCat\\Desktop\\КАІ\\OOP-KAI\\Lab2.3\\C#\\TextApp\\obj\\",
+        "outputPath": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\КАІ\\OOP-KAI\\Lab2.3\\C#\\TextApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\GreyCat\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\GreyCat\\Desktop\\КАІ\\OOP-KAI\\Lab2.3\\C#\\TextLibrary\\TextLibrary.csproj": {
-                "projectPath": "C:\\Users\\GreyCat\\Desktop\\КАІ\\OOP-KAI\\Lab2.3\\C#\\TextLibrary\\TextLibrary.csproj"
+              "C:\\Users\\GreyCat\\OneDrive\\Desktop\\КАІ\\OOP-KAI\\Lab2.3\\C#\\TextLibrary\\TextLibrary.csproj": {
+                "projectPath": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\КАІ\\OOP-KAI\\Lab2.3\\C#\\TextLibrary\\TextLibrary.csproj"
               }
             }
           }
@@ -67,14 +67,14 @@
         }
       }
     },
-    "C:\\Users\\GreyCat\\Desktop\\КАІ\\OOP-KAI\\Lab2.3\\C#\\TextLibrary\\TextLibrary.csproj": {
+    "C:\\Users\\GreyCat\\OneDrive\\Desktop\\КАІ\\OOP-KAI\\Lab2.3\\C#\\TextLibrary\\TextLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GreyCat\\Desktop\\КАІ\\OOP-KAI\\Lab2.3\\C#\\TextLibrary\\TextLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\КАІ\\OOP-KAI\\Lab2.3\\C#\\TextLibrary\\TextLibrary.csproj",
         "projectName": "TextLibrary",
-        "projectPath": "C:\\Users\\GreyCat\\Desktop\\КАІ\\OOP-KAI\\Lab2.3\\C#\\TextLibrary\\TextLibrary.csproj",
+        "projectPath": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\КАІ\\OOP-KAI\\Lab2.3\\C#\\TextLibrary\\TextLibrary.csproj",
         "packagesPath": "C:\\Users\\GreyCat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GreyCat\\Desktop\\КАІ\\OOP-KAI\\Lab2.3\\C#\\TextLibrary\\obj\\",
+        "outputPath": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\КАІ\\OOP-KAI\\Lab2.3\\C#\\TextLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\GreyCat\\AppData\\Roaming\\NuGet\\NuGet.Config"

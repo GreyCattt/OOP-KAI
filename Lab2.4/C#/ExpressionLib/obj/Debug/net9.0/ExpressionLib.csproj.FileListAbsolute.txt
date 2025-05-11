@@ -1,0 +1,12 @@
+C:\Users\GreyCat\OneDrive\Desktop\КАІ\OOP-KAI\Lab2.4\C#\ExpressionLib\bin\Debug\net9.0\ExpressionLib.deps.json
+C:\Users\GreyCat\OneDrive\Desktop\КАІ\OOP-KAI\Lab2.4\C#\ExpressionLib\bin\Debug\net9.0\ExpressionLib.dll
+C:\Users\GreyCat\OneDrive\Desktop\КАІ\OOP-KAI\Lab2.4\C#\ExpressionLib\bin\Debug\net9.0\ExpressionLib.pdb
+C:\Users\GreyCat\OneDrive\Desktop\КАІ\OOP-KAI\Lab2.4\C#\ExpressionLib\obj\Debug\net9.0\ExpressionLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GreyCat\OneDrive\Desktop\КАІ\OOP-KAI\Lab2.4\C#\ExpressionLib\obj\Debug\net9.0\ExpressionLib.AssemblyInfoInputs.cache
+C:\Users\GreyCat\OneDrive\Desktop\КАІ\OOP-KAI\Lab2.4\C#\ExpressionLib\obj\Debug\net9.0\ExpressionLib.AssemblyInfo.cs
+C:\Users\GreyCat\OneDrive\Desktop\КАІ\OOP-KAI\Lab2.4\C#\ExpressionLib\obj\Debug\net9.0\ExpressionLib.csproj.CoreCompileInputs.cache
+C:\Users\GreyCat\OneDrive\Desktop\КАІ\OOP-KAI\Lab2.4\C#\ExpressionLib\obj\Debug\net9.0\ExpressionLib.sourcelink.json
+C:\Users\GreyCat\OneDrive\Desktop\КАІ\OOP-KAI\Lab2.4\C#\ExpressionLib\obj\Debug\net9.0\ExpressionLib.dll
+C:\Users\GreyCat\OneDrive\Desktop\КАІ\OOP-KAI\Lab2.4\C#\ExpressionLib\obj\Debug\net9.0\refint\ExpressionLib.dll
+C:\Users\GreyCat\OneDrive\Desktop\КАІ\OOP-KAI\Lab2.4\C#\ExpressionLib\obj\Debug\net9.0\ExpressionLib.pdb
+C:\Users\GreyCat\OneDrive\Desktop\КАІ\OOP-KAI\Lab2.4\C#\ExpressionLib\obj\Debug\net9.0\ref\ExpressionLib.dll

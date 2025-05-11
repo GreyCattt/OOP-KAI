@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GreyCat\\Desktop\\КАІ\\OOP-KAI\\Lab2.3\\C#\\TextLibrary\\TextLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\КАІ\\OOP-KAI\\Lab2.3\\C#\\TextLibrary\\TextLibrary.csproj",
       "projectName": "TextLibrary",
-      "projectPath": "C:\\Users\\GreyCat\\Desktop\\КАІ\\OOP-KAI\\Lab2.3\\C#\\TextLibrary\\TextLibrary.csproj",
+      "projectPath": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\КАІ\\OOP-KAI\\Lab2.3\\C#\\TextLibrary\\TextLibrary.csproj",
       "packagesPath": "C:\\Users\\GreyCat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\GreyCat\\Desktop\\КАІ\\OOP-KAI\\Lab2.3\\C#\\TextLibrary\\obj\\",
+      "outputPath": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\КАІ\\OOP-KAI\\Lab2.3\\C#\\TextLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\GreyCat\\AppData\\Roaming\\NuGet\\NuGet.Config"
