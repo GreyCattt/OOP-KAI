@@ -1,0 +1,12 @@
+C:\Users\GreyCat\OneDrive\Desktop\КАІ\OOP-KAI\DZ\MatrixLib\bin\Debug\net9.0\MatrixLib.deps.json
+C:\Users\GreyCat\OneDrive\Desktop\КАІ\OOP-KAI\DZ\MatrixLib\bin\Debug\net9.0\MatrixLib.dll
+C:\Users\GreyCat\OneDrive\Desktop\КАІ\OOP-KAI\DZ\MatrixLib\bin\Debug\net9.0\MatrixLib.pdb
+C:\Users\GreyCat\OneDrive\Desktop\КАІ\OOP-KAI\DZ\MatrixLib\obj\Debug\net9.0\MatrixLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GreyCat\OneDrive\Desktop\КАІ\OOP-KAI\DZ\MatrixLib\obj\Debug\net9.0\MatrixLib.AssemblyInfoInputs.cache
+C:\Users\GreyCat\OneDrive\Desktop\КАІ\OOP-KAI\DZ\MatrixLib\obj\Debug\net9.0\MatrixLib.AssemblyInfo.cs
+C:\Users\GreyCat\OneDrive\Desktop\КАІ\OOP-KAI\DZ\MatrixLib\obj\Debug\net9.0\MatrixLib.csproj.CoreCompileInputs.cache
+C:\Users\GreyCat\OneDrive\Desktop\КАІ\OOP-KAI\DZ\MatrixLib\obj\Debug\net9.0\MatrixLib.sourcelink.json
+C:\Users\GreyCat\OneDrive\Desktop\КАІ\OOP-KAI\DZ\MatrixLib\obj\Debug\net9.0\MatrixLib.dll
+C:\Users\GreyCat\OneDrive\Desktop\КАІ\OOP-KAI\DZ\MatrixLib\obj\Debug\net9.0\refint\MatrixLib.dll
+C:\Users\GreyCat\OneDrive\Desktop\КАІ\OOP-KAI\DZ\MatrixLib\obj\Debug\net9.0\MatrixLib.pdb
+C:\Users\GreyCat\OneDrive\Desktop\КАІ\OOP-KAI\DZ\MatrixLib\obj\Debug\net9.0\ref\MatrixLib.dll
