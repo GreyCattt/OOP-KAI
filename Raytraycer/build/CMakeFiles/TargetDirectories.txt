@@ -1,0 +1,3 @@
+C:/Users/GreyCat/OneDrive/Desktop/KAI/OOP-KAI/Raytraycer/build/CMakeFiles/raytraycer.dir
+C:/Users/GreyCat/OneDrive/Desktop/KAI/OOP-KAI/Raytraycer/build/CMakeFiles/edit_cache.dir
+C:/Users/GreyCat/OneDrive/Desktop/KAI/OOP-KAI/Raytraycer/build/CMakeFiles/rebuild_cache.dir

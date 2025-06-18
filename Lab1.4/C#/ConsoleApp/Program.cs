@@ -7,7 +7,7 @@ namespace Lab1._4.CS.ConsoleApp
     {
         static void Main(string[] args)
         {
-            Segment segment = new Segment(0, 0, 3, 4);
+            Segment segment = new Segment(0, 0, 4, 4);
 
             // Output the initial data of the segment
             Console.WriteLine("Initial segment data:");

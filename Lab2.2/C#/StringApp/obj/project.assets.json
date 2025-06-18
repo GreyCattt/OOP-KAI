@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GreyCat\\Desktop\\КАІ\\OOP-KAI\\Lab2.2\\C#\\StringApp\\StringApp.csproj",
+      "projectUniqueName": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\КАІ\\OOP-KAI\\Lab2.2\\C#\\StringApp\\StringApp.csproj",
       "projectName": "StringApp",
-      "projectPath": "C:\\Users\\GreyCat\\Desktop\\КАІ\\OOP-KAI\\Lab2.2\\C#\\StringApp\\StringApp.csproj",
+      "projectPath": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\КАІ\\OOP-KAI\\Lab2.2\\C#\\StringApp\\StringApp.csproj",
       "packagesPath": "C:\\Users\\GreyCat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\GreyCat\\Desktop\\КАІ\\OOP-KAI\\Lab2.2\\C#\\StringApp\\obj\\",
+      "outputPath": "C:\\Users\\GreyCat\\OneDrive\\Desktop\\КАІ\\OOP-KAI\\Lab2.2\\C#\\StringApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\GreyCat\\AppData\\Roaming\\NuGet\\NuGet.Config"

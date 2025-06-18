@@ -49,5 +49,6 @@
         "xtr1common": "cpp",
         "xutility": "cpp"
     },
-    "dotnet.defaultSolution": "StringApp.sln"
+    "dotnet.defaultSolution": "StringApp.sln",
+    "cmake.sourceDirectory": "C:/Users/GreyCat/OneDrive/Desktop/КАІ/OOP-KAI/Raytraycer"
 }

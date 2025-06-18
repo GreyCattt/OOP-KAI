@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExpressionLib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30dcfc1412ce9713efd0c2bb9c4c8a43e771f5b3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d29d34db6e103eba4d82349562f0a3f2d5790725")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExpressionLib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExpressionLib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
